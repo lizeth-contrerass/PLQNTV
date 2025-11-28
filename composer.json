@@ -1,0 +1,17 @@
+{
+    "name": "chang/pruebaswe",
+    "autoload": {
+        "psr-4": {
+            "Chang\\Pruebaswe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MarinGalvanDiaz",
+            "email": "galvandiazmarin@gmail.com"
+        }
+    ],
+    "require": {
+        "mercadopago/dx-php": "^3.7"
+    }
+}
